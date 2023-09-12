@@ -45,3 +45,10 @@ body {
   bottom: 120px;
   left: 300px;
 }
+.image {
+  position: absolute;
+  top: 50px;
+  left: 500px;
+  height: 150px;
+  width: 150px;
+}
