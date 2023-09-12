@@ -2,8 +2,8 @@ h2 {
   color: rgb(0, 145, 255);
 }
 body {
-  color: rgb(7, 7, 7);
-  background-color: rgb(250, 249, 249);
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
 }
 .resume {
   max-width: auto;
