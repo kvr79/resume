@@ -1,0 +1,47 @@
+h2 {
+  color: rgb(0, 145, 255);
+}
+body {
+  color: rgb(7, 7, 7);
+  background-color: rgb(250, 249, 249);
+}
+.resume {
+  max-width: auto;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, shadows-ito-light;
+  max-height: 750px;
+
+  border-radius: 10px;
+}
+.section {
+  margin-bottom: 20px;
+}
+.education {
+  position: relative;
+  bottom: 720px;
+  left: 300px;
+  max-width: 300px;
+}
+.certifications {
+  max-width: 300px;
+}
+.skills {
+  max-width: 300px;
+}
+.archieve {
+  position: relative;
+  bottom: 720px;
+  left: 300px;
+}
+.ea {
+  position: relative;
+  bottom: 720px;
+  left: 300px;
+  max-width: 300px;
+}
+.ih {
+  position: relative;
+  bottom: 120px;
+  left: 300px;
+}
